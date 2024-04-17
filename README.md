@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![My_Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahirWardak&theme=github_dark)]
 [![My Skills](https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,sass,jest,react,nextjs,django,java,azure,cs,git,github)](https://www.linkedin.com/in/shahir-wardak/)
 <!--
 **ShahirWardak/ShahirWardak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
