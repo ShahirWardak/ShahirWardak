@@ -1,4 +1,4 @@
-![My_Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahirWardak&theme=github_dark)
+[![My_Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahirWardak&theme=github_dark)](https://www.linkedin.com/in/shahir-wardak/)
 
 [![My Skills](https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,sass,jest,react,nextjs,django,java,azure,cs,git,github)](https://www.linkedin.com/in/shahir-wardak/)
 <!--
