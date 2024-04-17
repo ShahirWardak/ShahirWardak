@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,sass,react,nextjs,azure,cs,git,github)]([https://www.linkedin.com/in/shahir-wardak/])
+[![My Skills](https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,sass,react,nextjs,azure,cs,git,github)](https://www.linkedin.com/in/shahir-wardak/)
 <!--
 **ShahirWardak/ShahirWardak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
