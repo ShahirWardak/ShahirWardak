@@ -1,14 +1,20 @@
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahirWardak&theme=github_dark" />
+  <a HRef="https://www.linkedin.com/in/shahir-wardak/">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahirWardak&theme=github_dark" />
+  </a>
 </div>
 <br />
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShahirWardak&theme=github_dark&exclude=" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahirWardak&theme=github_dark&exclude=" />
+  <a HRef="https://www.linkedin.com/in/shahir-wardak/">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShahirWardak&theme=github_dark&exclude=" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahirWardak&theme=github_dark&exclude=" />
+  </a>
 </div>
 <br />
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,sass,jest,react,nextjs,django,java,azure,cs,git,github" />
+  <a HRef="https://www.linkedin.com/in/shahir-wardak/">
+    <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,sass,jest,react,nextjs,django,java,azure,cs,git,github" />
+  </a>
 </div>
 <!--
 **ShahirWardak/ShahirWardak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
