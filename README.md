@@ -1,4 +1,6 @@
-[![My_Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahirWardak&theme=github_dark)](https://www.linkedin.com/in/shahir-wardak/)
+<div align="center">
+  [![My_Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahirWardak&theme=github_dark)](https://www.linkedin.com/in/shahir-wardak/)
+</div>
 [![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShahirWardak&theme=github_dark&exclude=)](https://www.linkedin.com/in/shahir-wardak/) [![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahirWardak&theme=github_dark&exclude=)](https://www.linkedin.com/in/shahir-wardak/)
 
 
