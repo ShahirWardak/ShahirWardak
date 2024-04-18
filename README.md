@@ -1,8 +1,15 @@
-[![My_Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahirWardak&theme=github_dark)](https://www.linkedin.com/in/shahir-wardak/)
-[![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShahirWardak&theme=github_dark&exclude=)](https://www.linkedin.com/in/shahir-wardak/) [![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahirWardak&theme=github_dark&exclude=)](https://www.linkedin.com/in/shahir-wardak/)
-
-
-[![My Skills](https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,sass,jest,react,nextjs,django,java,azure,cs,git,github)](https://www.linkedin.com/in/shahir-wardak/)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahirWardak&theme=github_dark" />
+</div>
+<br />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShahirWardak&theme=github_dark&exclude=" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahirWardak&theme=github_dark&exclude=" />
+</div>
+<br />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,sass,jest,react,nextjs,django,java,azure,cs,git,github" />
+</div>
 <!--
 **ShahirWardak/ShahirWardak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
