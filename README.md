@@ -7,20 +7,6 @@
 </div>
 <br />
 
-
-<div align="center">
-  <a HRef="https://www.linkedin.com/in/shahir-wardak/">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShahirWardak&theme=github_dark" />
-  </a>
-</div>
-<br />
-<div align="center">
-  <a HRef="https://www.linkedin.com/in/shahir-wardak/">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShahirWardak&theme=github_dark&exclude=" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahirWardak&theme=github_dark&exclude=" />
-  </a>
-</div>
-<br />
 <div align="center">
   <a HRef="https://www.linkedin.com/in/shahir-wardak/">
     <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css,sass,jest,react,nextjs,django,java,azure,cs,git,github" />
