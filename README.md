@@ -1,13 +1,9 @@
 <div align="center">
-  <picture>
-    <img src="https://github-readme-stats-vercel-tawny.vercel.app/api?username=shahirwardak&show_icons=true&theme=transparent&hide=stars,issues&show=prs_merged,prs_merged_percentage" />
-  </picture>
+  <img src="https://github-readme-stats-vercel-tawny.vercel.app/api?username=shahirwardak&show_icons=true&theme=transparent&hide=stars,issues&show=prs_merged,prs_merged_percentage" />
 </div>
 <br />
 <div align="center">
-  <picture>
-    <img src="https://github-readme-stats-vercel-tawny.vercel.app/api/top-langs/?username=shahirwardak&theme=transparent&layout=donut" />
-  </picture>
+  <img src="https://github-readme-stats-vercel-tawny.vercel.app/api/top-langs/?username=shahirwardak&theme=transparent&layout=donut" />
 </div>
 <br />
 
