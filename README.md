@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github-readme-stats-vercel-tawny.vercel.app/api?username=shahirwardak&show_icons=true&theme=transparent&hide=stars,issues&show=prs_merged,prs_merged_percentage" />
+  <img src="https://github-readme-stats-vercel-tawny.vercel.app/api?username=shahirwardak&show_icons=true&theme=transparent&hide=stars,issues&show=prs_merged,prs_merged_percentage&rank_icon=github" />
 </div>
 <br />
 <div align="center">
